@@ -18,7 +18,7 @@ Organoid Analysis 面向类器官图像分析需求，将个体分割、形态�
 
 ## 下载与启动
 
-本仓库用于软件发布、文档及反馈，不包含应用源代码。请在仓库的 **Releases** 页面下载用户版附件；若尚无公开版本，说明下载尚未开放。GitHub 自动生成的 Source code ZIP 仅包含本仓库文档，不是软件运行包。
+本仓库用于软件发布、文档及反馈，不包含应用源代码。页面[下载](https://wchorganoid.com/).用户版附件；若尚无公开版本，说明下载尚未开放。GitHub 自动生成的 Source code ZIP 仅包含本仓库文档，不是软件运行包。
 
 相关说明：[使用与账号](TERMS_OF_USE.md) · [问题反馈](SUPPORT.md) · [更新记录](CHANGELOG.md) · [第三方组件](THIRD_PARTY_NOTICES.md)。
 
